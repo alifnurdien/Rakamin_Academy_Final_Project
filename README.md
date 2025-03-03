@@ -1,1 +1,2 @@
 # Rakamin_Academy_Final_Project
+This repository contains projects and analyses conducted during my project-based internship at Rakamin Academy in collaboration with ID/X Partners. The internship focuses on applying data science techniques, including data preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning model development, to solve real-world business problems.
